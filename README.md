@@ -5,7 +5,7 @@ Convert the annual percentage into a decimal by diving by 100.
 Variables: principal, annual_rate, times_compounded, rate, amount, and interest_earned.
 Calculate the final balance using pow(1.0 + rate / times_compounded, times_compounded).
 Calculate interest earned by subtracting the principal from the final amount.
-Tests: the assigned test (1000, 4.25%, 12) and a second test with different positive inputs.
+Tests: the assigned test (1000, 4.25%, 12) and a second test with different positive inputs (2500, 5.00% and 4).
 The result with the first values was $43.34 for the interest earned and $1043.34 amount in savings and the result with the second values was $127.36 for the interest earned and $2627.36 for the amount in savings.
 
 
