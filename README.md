@@ -15,6 +15,7 @@ Convert the annual percentage to a decimal monthly rate by dividing by 100 and t
 Variables: loan_amount, annual_rate, number_of_payments, monthly_rate, monthly_payment, amount_paid_back, and interest_paid.
 Use pow() to calculate the monthly payment with the required loan formula.
 Calculate the total amount paid back and the total interest.
-Tests: the assigned test (10000, 12%, 36) and a second test with different positive inputs.
+Tests: the assigned test (10000, 12%, 36) and a second test with different positive inputs (2100, 15%, 21).
+The result with the first values was $332.14 for monthly payment, amount paid back was $11,957.15, interest paid $1,957.15 and the results with the second values was $114.32 for monthly payment, amount paid back was $2400.69, interest paid $300.69.
 
 
